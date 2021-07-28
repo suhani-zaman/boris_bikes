@@ -3,5 +3,6 @@ This dircetory will emulate all the docking stations, bikes, and infrastructure.
 
 # How to use
 ```shell
-ruby bikes.rb
+ruby bike.rb
+ruby dockstation.rb
 ```
